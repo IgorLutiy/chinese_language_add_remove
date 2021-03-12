@@ -1,0 +1,1 @@
+control intl.cpl,, /f:"LangAdd.xml"
